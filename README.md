@@ -44,7 +44,7 @@ Title: Flutter Interview Questions
 * What are keys in Flutter and when should you use it?
 * What are `GlobalKeys`?
 * When should you use `mainAxisAlignment` and `crossAxisAlignment`?
-* When can you use `double.INFINITY`?
+* When can you use `double.infinityINFINITY`?
 * What is `Ticker`, `Tween` and `AnimatedBuilder`?
 * What is ephemeral state?
 * What is an `AspectRatio` widget used for?
